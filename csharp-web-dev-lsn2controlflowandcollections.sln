@@ -14,6 +14,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ListGradebook", "ListGradeb
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayGradebook", "ArrayGradebook\ArrayGradebook.csproj", "{A30209C7-03F9-4957-AECB-D118429A58DF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DictionaryGradebook", "DIctionaryGradebook\DictionaryGradebook.csproj", "{282C49A8-60C9-4DC9-B99F-AF33AEF89BEA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -44,6 +46,10 @@ Global
 		{A30209C7-03F9-4957-AECB-D118429A58DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A30209C7-03F9-4957-AECB-D118429A58DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A30209C7-03F9-4957-AECB-D118429A58DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{282C49A8-60C9-4DC9-B99F-AF33AEF89BEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{282C49A8-60C9-4DC9-B99F-AF33AEF89BEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{282C49A8-60C9-4DC9-B99F-AF33AEF89BEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{282C49A8-60C9-4DC9-B99F-AF33AEF89BEA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
